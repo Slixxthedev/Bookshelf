@@ -43,7 +43,7 @@ Moderate Settings:
 - Assuming RAM Allocated is atleast 1200MB
 
 Extreme Settings:
-- Assuming RAM Allocated is >=800MB
+- Assuming RAM Allocated is <=800MB
 
 | Video Setting       | Moderate Setting | Extreme Setting                     |
 | ------------------- | ---------------- | ----------------------------------- |

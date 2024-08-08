@@ -1,5 +1,5 @@
 # Bookshelf
-![image](https://github.com/user-attachments/assets/aa82105b-e02d-4115-b8bb-87061ed67b85)
+![image](Bookshelf_JE4_BE2.png)
 ## What is bookshelf?
 
 Bookshelf is an effort towards providing a carefully curated collection of Minecraft settings and mods aimed at enhancing FPS and performance. This list seeks to improve your gameplay experience by optimizing it for better performance, giving you an improved visual as a result of selecting only the best.

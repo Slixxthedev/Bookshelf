@@ -1,13 +1,12 @@
 # Bookshelf
-![image](https://github.com/user-attachments/assets/40a0645c-aa7f-4487-8a7a-208bd7d6e51c)
-
+![image](https://github.com/user-attachments/assets/aa82105b-e02d-4115-b8bb-87061ed67b85)
 ## What is bookshelf?
 
 Bookshelf is an effort towards providing a carefully curated collection of Minecraft settings and mods aimed at enhancing FPS and performance. This list seeks to improve your gameplay experience by optimizing it for better performance, giving you an improved visual as a result of selecting only the best.
 
 ## Contents
 
-- [General Optimisation](https://github.com/Slixxthedev/Bookshelf?tab=readme-ov-file#general-optimisation)
+- [General Optimisation](https://github.com/Slixxthedev/Bookshelf/main?readme=1#general-optimisation)
 - [Fabric Mods]()
 - [Forge Mods]()
 
@@ -36,3 +35,35 @@ Let's get started with optimising the launcher first!
 ### JVM Startup Arguments
 
 > This section needs help, contribute us by opening an issue.
+
+### Recommended Minecraft Settings
+
+Moderate Settings:
+
+- Assuming RAM Allocated is atleast 1200MB
+
+Extreme Settings:
+- Assuming RAM Allocated is >=800MB
+
+| Video Setting       | Moderate Setting | Extreme Setting                     |
+| ------------------- | ---------------- | ----------------------------------- |
+| Render Distance     | 6                | 2/4 Depending on your allocated RAM |
+| Simulation Distance | 5                | 5                                   |
+| View Bobbing        | Off              | Off                                 |
+| Vsync               | Off              | Off                                 |
+| Clouds              | Off              | Off                                 |
+| Particles           | Decreased        | Minimal                             |
+| Mipmap Levels       | Off              | Off                                 |
+| Entity Distance     | 100%             | 50%                                 |
+
+>[!NOTE]
+> Playing on Vanilla is not recommended as it is heavily unoptimized.
+
+
+## Fabric Mods
+
+Soon!
+
+## Foge Mods
+
+Soon!

@@ -6,7 +6,7 @@ Bookshelf is an effort towards providing a carefully curated collection of Minec
 
 ## Contents
 
-- [General Optimisation](https://github.com/Slixxthedev/Bookshelf/main?readme=1#general-optimisation)
+- [General Optimisation](https://github.com/Slixxthedev/Bookshelf?tab=readme-ov-file#general-optimisation)
 - [Fabric Mods]()
 - [Forge Mods]()
 

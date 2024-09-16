@@ -24,6 +24,8 @@ Let's get started with optimising the launcher first!
 |         [1.17,1.18,1.19,1.20-1.20.4]         |         Java 17          |
 |             [1.20.5-1.20.6,1.21]             |         Java 21          |
 - Use the **HOLY GL4ES** renderer as it's pretty fast and supports all Minecraft versions.
+>[!WARNING]
+> As of Latest Snapshot (24w37a) the **HOLY GL4ES** seems to be broken (Shows up pitch black or red screen when using the renderer). A possible fix is to use **ANGLE** Renderer for it.
 - Use the following table to allocate ram for the game.
 
 | Your Device RAM | Minimum RAM Allocation | Maximum RAM Allocation       |
